@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SDA Assign02-2024 Nick Maher</string>
+    <string name="camera_string">Implicit Intent: Open Camera</string>
+    <string name="picture_string">Implicit Intent: View Picture</string>
+    <string name="activity_string">Explicit Intent: Call an activity</string>
+    <string name="no_camera">Explicit Intent: Call an activity</string>
+    <string name="email_address">To:</string>
+    <string name="email_subject">Subject</string>
+    <string name="email_body">Compose</string>
+    <string name="save_button">Save</string>
+    <string name="send_button">Send</string>
+
+</resources>
